@@ -6,15 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
