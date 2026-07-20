@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1652-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mohanraj3-arj/LEETCODE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
