@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [1052-grumpy-bookstore-owner](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1652-defuse-the-bomb) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [1052-grumpy-bookstore-owner](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
