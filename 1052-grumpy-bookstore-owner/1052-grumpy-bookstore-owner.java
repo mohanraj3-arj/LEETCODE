@@ -35,6 +35,7 @@ class Solution {
 
     int max = Integer.MIN_VALUE;
     int sum = 0;
+    int n = customers.length;
     
     for(int i = 0; i < minutes; i++){
         if(grumpy[i] == 1){
@@ -42,7 +43,7 @@ class Solution {
         }
     }
     max = sum;
-    for(int j = minutes; j < customers.length; j++){
+    for(int j = minutes; j < n; j++){
             if(grumpy[j-minutes]  == 1){
                 sum -= customers[j-minutes];
 
@@ -57,7 +58,7 @@ class Solution {
     }
 
 int satisfiedCustomer = 0;
-for(int i = 0; i < customers.length; i++){
+for(int i = 0; i < n; i++){
     if(grumpy[i] == 0){
          satisfiedCustomer += customers[i];
     }
