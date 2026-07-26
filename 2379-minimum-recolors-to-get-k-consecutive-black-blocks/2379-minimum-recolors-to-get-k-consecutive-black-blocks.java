@@ -30,59 +30,29 @@ class Solution {
         //*** Optimized Solutions **** */
 
 
-        int MinOperation = Integer.MAX_VALUE;
-        HashMap<Character,Integer> map = new HashMap<>();
+        int MinOperation = 0;
         int WhiteCount = 0;
         int n = blocks.length();
 
         for(int i = 0; i < k; i++){
             char ch = blocks.charAt(i);
-            if(!map.containsKey(ch)){
-                map.put(ch, 1);
-            }
-            else{
-                int temp = map.get(ch);
-                map.put(ch, temp+1);
+            if(ch == 'W'){
+                WhiteCount++;
             }
         }
         
-        if(!map.containsKey('W')){
-            int Black = map.get('B');
-            if(Black >= k){
-                return 0;
-            }
-        }
-        MinOperation = map.get('W');
+       
+        MinOperation = WhiteCount;
 
         for(int i = k; i < n; i++){
            
             char ce = blocks.charAt(i-k);
             char ch = blocks.charAt(i);
-             // remove leftmost
-            if(map.containsKey(ce)){
-                int key = map.get(ce);
-                if(key > 0){
-                    map.put(ce, key-1);
-                }
-                else{
-                    map.remove(ce);
-                }
-            }
-            // add rightmost
-            if(map.containsKey(ch)){
-               map.put(ch,  map.get(ch)+1);
-            }
-            else{
-                map.put(ch, 1);
-            }
-            if(!map.containsKey('W')){
-            int Black = map.get('B');
-            if(Black >= k){
-                return 0;
-            }
-        }
-
-            WhiteCount = map.get('W');
+           if(ce == 'W'){
+            WhiteCount--;
+           }
+           if(ch == 'W')WhiteCount++;
+           
             MinOperation = Math.min(MinOperation, WhiteCount);
         }
         return MinOperation;
