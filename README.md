@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2653-sliding-subarray-beauty) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mohanraj3-arj/LEETCODE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2653-sliding-subarray-beauty) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Counting
 |  |
 | ------- |
