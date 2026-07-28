@@ -41,25 +41,41 @@ class Solution {
 
 
 
-    HashMap<Character, Integer> map = new HashMap<>();
+   // HashMap<Character, Integer> map = new HashMap<>();
 
 
     int left = 0;
     int maxsub = 0;
     int maxfreq = 0;
 
+    // for(int i = 0; i < s.length(); i++){
+    //     char ch = s.charAt(i);
+    //     map.put(ch, map.getOrDefault(ch, 0) + 1);
+    //    maxfreq = Math.max(maxfreq, map.get(ch));
+
+    //     while((i - left + 1) - maxfreq > k){
+    //         char ce = s.charAt(left);
+    //         map.put(ce, map.get(ce) - 1);
+    //         left++;
+    //     }
+    //     maxsub = Math.max(maxsub, i - left + 1);
+        
+    // }
+
+    int[] arr = new int[26];
+
     for(int i = 0; i < s.length(); i++){
         char ch = s.charAt(i);
-        map.put(ch, map.getOrDefault(ch, 0) + 1);
-       maxfreq = Math.max(maxfreq, map.get(ch));
+        arr[ch - 'A']++;
+
+        maxfreq = Math.max(maxfreq, arr[ch-'A']);
 
         while((i - left + 1) - maxfreq > k){
-            char ce = s.charAt(left);
-            map.put(ce, map.get(ce) - 1);
+            char cm = s.charAt(left);
+            arr[cm - 'A']--;
             left++;
         }
         maxsub = Math.max(maxsub, i - left + 1);
-        
     }
 
 
