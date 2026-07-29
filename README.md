@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0567-permutation-in-string) |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
