@@ -38,76 +38,89 @@ class Solution {
 
    // return longSub;
 
-      int maxlength = 0;
-      if(s.length() == k)return k;
+    //   int maxlength = 0;
+    //   if(s.length() == k)return k;
 
-      for(int targetUnique = 0; targetUnique < s.length(); targetUnique++){
+    //   for(int targetUnique = 0; targetUnique < s.length(); targetUnique++){
 
-        int[] charfreq = new int[26];
+    //     int[] charfreq = new int[26];
 
-        int right = 0;
-        int left = 0;
+    //     int right = 0;
+    //     int left = 0;
 
-        int uniquechar = 0;
-        int charAtK = 0;
+    //     int uniquechar = 0;
+    //     int charAtK = 0;
 
-        while(right < s.length()){
-            char ch = s.charAt(right);
-            int index = ch - 'a';
+    //     while(right < s.length()){
+    //         char ch = s.charAt(right);
+    //         int index = ch - 'a';
 
-            if(charfreq[index] == 0){
-                uniquechar++;
-            }
-            charfreq[index]++;
-            if(charfreq[index] == k){
-                charAtK++;
-            }
-            while(uniquechar > targetUnique){
-                char lastchar = s.charAt(left);
-                int leftindex = lastchar - 'a';
+    //         if(charfreq[index] == 0){
+    //             uniquechar++;
+    //         }
+    //         charfreq[index]++;
+    //         if(charfreq[index] == k){
+    //             charAtK++;
+    //         }
+    //         while(uniquechar > targetUnique){
+    //             char lastchar = s.charAt(left);
+    //             int leftindex = lastchar - 'a';
 
-                if(charfreq[leftindex] == k){
-                    charAtK--;
-                }
-                charfreq[leftindex]--;
-                if(charfreq[leftindex] == 0){
-                    uniquechar--;
-                }
-                left++;
-            }
-            if(uniquechar == targetUnique && charAtK == targetUnique){
-                maxlength = Math.max(maxlength, right - left + 1);
-            }
-            right++;
-        }
+    //             if(charfreq[leftindex] == k){
+    //                 charAtK--;
+    //             }
+    //             charfreq[leftindex]--;
+    //             if(charfreq[leftindex] == 0){
+    //                 uniquechar--;
+    //             }
+    //             left++;
+    //         }
+    //         if(uniquechar == targetUnique && charAtK == targetUnique){
+    //             maxlength = Math.max(maxlength, right - left + 1);
+    //         }
+    //         right++;
+    //     }
 
-      }
-      return maxlength;
-
-
+    //   }
+    //   return maxlength;
 
 
+// *** 5ms time complexity ***
 
 
+    return helper(s, 0, s.length(), k);
 
-
-
-
+   
 
 
 
 
 
-
-
-
-
-
-
-       
-        
 
 
         
     }
+     private int helper(String s, int start, int end, int k){
+        if(end - start < k) return 0;
+
+        int[] freq = new int[26];
+
+        for(int i = start; i < end; i++){
+            char ch = s.charAt(i);
+            freq[ch - 'a']++;
+        }
+
+        for(int i = start; i < end; i++){
+            if(freq[s.charAt(i) - 'a'] < k){
+                int next = i + 1;
+                while(next < end && freq[s.charAt(next) - 'a'] < k){
+                    next++;
+                }
+                return Math.max(helper(s, start, i, k), helper(s, next, end, k));
+            }
+
+        }
+        return end - start;
+    }
+
 }
