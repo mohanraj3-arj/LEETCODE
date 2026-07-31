@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2653-sliding-subarray-beauty) |
+| [2762-continuous-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2762-continuous-subarrays) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mohanraj3-arj/LEETCODE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Two Pointers
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2653-sliding-subarray-beauty) |
+| [2762-continuous-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2762-continuous-subarrays) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mohanraj3-arj/LEETCODE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## String
@@ -137,16 +139,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [2762-continuous-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2762-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [2762-continuous-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [2762-continuous-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2762-continuous-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Ordered Set
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->
