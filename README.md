@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2653-sliding-subarray-beauty) |
 | [2762-continuous-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2762-continuous-subarrays) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mohanraj3-arj/LEETCODE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Two Pointers
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2653-sliding-subarray-beauty) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2653-sliding-subarray-beauty) |
 | [2762-continuous-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2762-continuous-subarrays) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/mohanraj3-arj/LEETCODE/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## String
