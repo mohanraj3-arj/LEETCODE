@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
