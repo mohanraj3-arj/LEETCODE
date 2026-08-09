@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1991-find-the-middle-index-in-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Counting
