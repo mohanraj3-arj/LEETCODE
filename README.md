@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
+| [1854-maximum-population-year](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
 |  |
