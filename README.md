@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1652-defuse-the-bomb) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2235-add-two-integers](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2235-add-two-integers) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Design
 |  |
 | ------- |
