@@ -14,5 +14,19 @@ class Solution {
             }
            }
            return true;
+
+
+
+        // Arrays.sort(arr);
+        // int previous = 0;
+        // int next = 0;
+        // for(int i = 1; i < arr.length-1; i++){
+        //     previous = arr[i-1] - arr[i];
+        //     next = arr[i+1] - arr[i];
+        //     if(previous != next){
+        //         return false;
+        //     }
+        // }
+        // return true;
     }
 }
