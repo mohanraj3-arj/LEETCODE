@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
