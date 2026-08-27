@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -257,6 +258,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
