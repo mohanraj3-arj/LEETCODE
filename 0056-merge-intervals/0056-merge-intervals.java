@@ -4,24 +4,20 @@ class Solution {
        
     if(intervals.length <= 1) return intervals;
 
-    Arrays.sort(intervals, Comparator.comparingInt(i -> i[0]));
+    Arrays.sort(intervals, (a,b) -> Integer.compare(a[0], b[0]));
+    List<int[]> merge = new ArrayList<>();
 
-    int[] newinterval = intervals[0];
-
-    List<int[]> result = new ArrayList<>();
-    result.add(newinterval);
-
-    for(int[] interval : intervals){
-        if(newinterval[1] >= interval[0]){
-            newinterval[1] = Math.max(newinterval[1], interval[1]);
+    
+    for(int i = 0; i < intervals.length; i++){
+        if(merge.isEmpty() || merge.get(merge.size()-1)[1] < intervals[i][0]){
+            merge.add(intervals[i]);
         }
         else{
-            newinterval = interval;
-            result.add(newinterval);
+            int end = Math.max(intervals[i][1], merge.get(merge.size()-1)[1] );
+            merge.get(merge.size()-1)[1] = end;
         }
     }
-
-    return result.toArray(new int[result.size()][]);
+    return merge.toArray(new int[merge.size()][]);
 
     }
 }
