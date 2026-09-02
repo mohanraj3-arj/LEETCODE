@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Design
