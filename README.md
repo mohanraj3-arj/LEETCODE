@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -250,9 +252,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0493-reverse-pairs) |
 | [2762-continuous-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2762-continuous-subarrays) |
 ## Dynamic Programming
 |  |
@@ -292,4 +296,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0056-merge-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
