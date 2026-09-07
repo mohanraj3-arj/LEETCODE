@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0048-rotate-image) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0075-sort-colors) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0075-sort-colors) |
