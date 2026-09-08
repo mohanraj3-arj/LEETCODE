@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0075-sort-colors) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -336,5 +338,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
