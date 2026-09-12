@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1652-defuse-the-bomb) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1854-maximum-population-year](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Design
 |  |
 | ------- |
