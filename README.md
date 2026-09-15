@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1014-best-sightseeing-pair](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1052-grumpy-bookstore-owner](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0978-longest-turbulent-subarray) |
+| [1014-best-sightseeing-pair](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
