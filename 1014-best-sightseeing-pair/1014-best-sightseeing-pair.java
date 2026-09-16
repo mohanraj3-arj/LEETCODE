@@ -14,20 +14,17 @@ class Solution {
 
 
 
+        int maxscore = 0;
+        int score = 0;
 
-        int sum = values[0];
-        int maxsum = Integer.MIN_VALUE;
+            for(int i = 0; i < values.length; i++){
+               // int sum += values[i];
 
-        for(int i = 1; i < values.length; i++){
-            maxsum = Math.max(maxsum, sum + values[i] - i);
-            sum = Math.max(sum, values[i] + i);
-        }
-        return maxsum;
-
-
-
-
-
+                maxscore = Math.max(maxscore, score + values[i] - i);
+                score = Math.max(score, values[i] + i);
+                
+            }
+            return maxscore;
 
 
     }
