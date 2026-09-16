@@ -13,26 +13,20 @@ class Solution {
         // }
         // return maxABS;
 
-        int MaxAns = Integer.MIN_VALUE;
+       // ***************** Approach optimal *****************
 
-        int MinSum = nums[0];
-        int MaxSum = nums[0];
-        int CurrentMinSum = nums[0];
-        int CurrentMaxSum = nums[0];
+       int currentmax = nums[0];
+       int currentmin =nums[0];
+       int globalmax = nums[0];
+       int globalmin = nums[0];
 
-        if(nums.length == 1){
-            return Math.abs(nums[0]);
-        }
+       for(int i = 1; i < nums.length; i++){
+        currentmax = Math.max(nums[i], currentmax + nums[i]);
+        currentmin = Math.min(nums[i], currentmin + nums[i]);
+        globalmax = Math.max(globalmax, currentmax);
+        globalmin = Math.min(globalmin, currentmin);
 
-        for(int i = 1; i < nums.length; i++){
-            CurrentMinSum = Math.min(nums[i], CurrentMinSum + nums[i]);
-            CurrentMaxSum = Math.max(nums[i], CurrentMaxSum + nums[i]);
-
-            MinSum = Math.min(MinSum, CurrentMinSum);
-            MaxSum = Math.max(MaxSum, CurrentMaxSum);
-
-            MaxAns = Math.max(Math.abs(MinSum), Math.abs(MaxSum));
-        }
-        return MaxAns;
+       }
+       return Math.max(Math.abs(globalmax), Math.abs(globalmin));
     }
 }
