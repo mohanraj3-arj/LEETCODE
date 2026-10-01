@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
