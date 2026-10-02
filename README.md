@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
