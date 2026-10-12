@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1052-grumpy-bookstore-owner](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
