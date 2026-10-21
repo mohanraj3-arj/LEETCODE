@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
