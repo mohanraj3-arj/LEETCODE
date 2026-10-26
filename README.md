@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-best-sightseeing-pair](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1052-grumpy-bookstore-owner](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mohanraj3-arj/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mohanraj3-arj/LEETCODE/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
