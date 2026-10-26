@@ -1,18 +1,15 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
            
-           int sum = weights[0];
-           int maxvalue = weights[0];
+           int left = 0;
+           int right = 0;
 
-           for(int i = 1; i < weights.length; i++){
-                sum += weights[i];
-                if(weights[i] > maxvalue){
-                    maxvalue = weights[i];
-                }
+           for(int val : weights){
+                right += val;
+                left = Math.max(left, val);
            }
 
-           int left = maxvalue;
-           int right = sum;
+          
 
            while(left <= right){
                 int mid = (left + right) / 2;
